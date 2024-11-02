@@ -1,0 +1,152 @@
+[
+  {
+    "playerId": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://documents.iplt20.com/ipl/IPLHeadshot2024/2.png",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "N/A",
+    "biddingPrice": 25000
+  },
+  {
+    "playerId": 2,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "image": "https://static-files.cricket-australia.pulselive.com/headshots/440/1075-camedia.png",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm leg break",
+    "biddingPrice": 20000
+  },
+  {
+    "playerId": 3,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383172.png",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm off break",
+    "biddingPrice": 18000
+  },
+  {
+    "playerId": 4,
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://www.iplbetonline.in/wp-content/uploads/2023/04/177-1-780x780.png",
+    "role": "All-rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm fast-medium",
+    "biddingPrice": 30000
+  },
+  {
+    "playerId": 5,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "image": "https://documents.iplt20.com/ipl/IPLHeadshot2024/9.png",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 19000
+  },
+  {
+    "playerId": 6,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "https://documents.iplt20.com/ipl/IPLHeadshot2024/218.png",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm leg break",
+    "biddingPrice": 17000
+  },
+  {
+    "playerId": 7,
+    "name": "AB de Villiers",
+    "country": "South Africa",
+    "image": "https://i.cdn.newsbytesapp.com/sports/players/profile/ab-de-villers.png",
+    "role": "Wicketkeeper-Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "N/A",
+    "biddingPrice": 24000
+  },
+  {
+    "playerId": 8,
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "https://documents.iplt20.com/ipl/IPLHeadshot2024/214.png",
+    "role": "Batsman",
+    "battingType": "Left-hand bat",
+    "bowlingType": "N/A",
+    "biddingPrice": 26000
+  },
+  {
+    "playerId": 10,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "image": "https://d2l63a9diffym2.cloudfront.net/players/VEt5zbmK2R4Zc7lUB5kykrOGqot2Ew7inzieW1nE.png",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Left-arm fast-medium",
+    "biddingPrice": 16000
+  },
+  {
+    "playerId": 11,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "image": "https://documents.iplt20.com/ipl/IPLHeadshot2024/170.png",
+    "role": "Wicketkeeper-Batsman",
+    "battingType": "Left-hand bat",
+    "bowlingType": "N/A",
+    "biddingPrice": 18000
+  },
+  {
+    "playerId": 12,
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "image": "https://documents.iplt20.com/ipl/IPLHeadshot2024/141.png",
+    "role": "All-rounder",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 29000
+  },
+  {
+    "playerId": 13,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "image": "https://d2l63a9diffym2.cloudfront.net/players/jdHrDyA3wt5vtC58WKFcSrNpFU8r80pWwWqJKxDS.png",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "N/A",
+    "biddingPrice": 23000
+  },
+  {
+    "playerId": 14,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "image": "https://documents.iplt20.com/ipl/IPLHeadshot2024/33.png",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 27000
+  },
+  {
+    "playerId": 15,
+    "name": "KL Rahul",
+    "country": "India",
+    "image": "https://api.bdcrictime.com/Profile/kl-rahul-14_10_2023.jpg",
+    "role": "Wicketkeeper-Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "N/A",
+    "biddingPrice": 21000
+  },
+  {
+    "playerId": 18,
+    "name": "Moeen Ali",
+    "country": "England",
+    "image": "https://documents.iplt20.com/ipl/IPLHeadshot2024/206.png",
+    "role": "All-rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm off break",
+    "biddingPrice": 13000
+  }
+]
